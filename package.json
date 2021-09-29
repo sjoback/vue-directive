@@ -1,0 +1,23 @@
+{
+  "name": "@leetajz/vue-directive",
+  "version": "1.0.0",
+  "description": "Simple plugin to apply directive animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "npm publish --access=private"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-directive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sjoback/vue-directive/issues"
+  },
+  "publishConfig": {
+      "registry": "https://npm.pkg.github.com/"
+  },
+  "homepage": "https://github.com/sjoback/vue-directive#readme"
+}
