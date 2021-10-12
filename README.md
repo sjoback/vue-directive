@@ -1,17 +1,17 @@
 # Vue-directive
-## Simple directive to apply animation when element is scrolled into view.
+## Simple directive to apply animation/class when element is scrolled into view.
 
 
 ### Install:
 ```
-npm i @swegaming-ab/vue-directive
+npm i @leetajz/vue-directive
 ```
 
 ### Register
 ```
 plugins: [
     ...
-    '@/node_modules/@swegaming-ab/vue-directive'
+    '@/node_modules/@leetajz/vue-directive'
     ...
 ]
 ```
@@ -19,6 +19,8 @@ plugins: [
 ### Usage
 ```
 <div v-animate="{ threshold: .3, animation: 'slide-in', duration: '.5s' }"></div>
+
+<div v-addClass="{ threshold: .3, class: 'slide-in', duration: '.5s' }"></div>
 
 ```
 
