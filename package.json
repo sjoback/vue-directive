@@ -1,6 +1,6 @@
 {
   "name": "@leetajz/vue-directive",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "simple plugin to apply directive animation",
   "main": "index.js",
   "scripts": {
