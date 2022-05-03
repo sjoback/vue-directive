@@ -1,5 +1,5 @@
 # Vue-directive
-## Simple directive to apply animation/class when element is scrolled into view.
+## Directive to apply animation/class when element is scrolled into view.
 
 
 ### Install:
